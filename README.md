@@ -16,7 +16,7 @@
 
 - <B>Data:</B> Weekly retail scan data for National Avocado retail unit volumes and pricing. Sourced directly from retailers cash registers based on actual retail sales of Hass Avocados. Weekly Data spans from Jan 2015 through March 25th 2018
 
-- <B>Key Objectives:</B> Predict Future Avocado Average Unit Pricing, Revenue Estimates, Sales Volumes for Boston (and national average) to inform decision-making Phone)
+- <B>Key Objectives:</B> Predict Future Avocado Average Unit Pricing, Revenue Estimates, Sales Volumes for Boston (and national average) to inform decision-making
 
 ---
 
